@@ -3,7 +3,7 @@
 ![License: MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Video
-[This is an example of how to use the application.](https://drive.google.com/file/d/12BfTCHbjl03DRPrZK-BOmOEqudwvxL9W/view?usp=sharing)
+This is an example of how to use the [application.](https://drive.google.com/file/d/1EqP6FyaTFJUk01j5Z3aGKgxQWy1BT4cF/view)
 
 ## Description
 
